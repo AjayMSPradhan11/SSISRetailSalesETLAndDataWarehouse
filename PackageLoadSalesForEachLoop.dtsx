@@ -5,14 +5,14 @@
   DTS:CreationName="Microsoft.Package"
   DTS:CreatorComputerName="ICS-LT-FBCD043"
   DTS:CreatorName="INFICS\ajpradhan"
-  DTS:DTSID="{9A3263C7-95AE-468D-87D8-AB9F5562997A}"
+  DTS:DTSID="{C9E25C03-F1BB-4D16-A0AF-437E12A4898D}"
   DTS:ExecutableType="Microsoft.Package"
   DTS:LastModifiedProductVersion="17.0.1016.0"
   DTS:LocaleID="1033"
-  DTS:ObjectName="Master"
+  DTS:ObjectName="PackageLoadSalesForEachLoop"
   DTS:PackageType="5"
-  DTS:VersionBuild="8"
-  DTS:VersionGUID="{A335E395-F916-4049-BFCE-AA8ABABE8995}">
+  DTS:VersionBuild="10"
+  DTS:VersionGUID="{7301650F-5971-4A36-B6A2-C07670175543}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:Variables>
